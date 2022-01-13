@@ -1,0 +1,1 @@
+export const REGISTER_URL = "https://crudcrud.com/api/49460e4594cd48f9ae783643b3e8ac56/register"
